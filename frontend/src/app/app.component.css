@@ -1,0 +1,13 @@
+.container{
+    
+    width:100%;
+}
+footer{ 
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+section{
+    margin: 5% 3% 5% 8%;
+}
