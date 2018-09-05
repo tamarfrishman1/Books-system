@@ -5,15 +5,15 @@
  
  the entire code is attached above.
  
- ## Run this app in dev mode-client side:
+ ## Run this app in dev mode-client side (frontend):
+ open the folder in command line and run with this commands:
 ```bash
-clone the file path
 npm i
 ng serve --open
 ```
-## Run this app in dev mode-server side:
+## Run this app in dev mode-server side (backend):
+ open the folder in command line and run with this commands:
 ```bash
-clone the file path
 npm i
 npm start
 ```
