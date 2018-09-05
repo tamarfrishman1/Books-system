@@ -20,7 +20,7 @@ export class CartComponent implements OnInit {
     })
 
   }
-
+//Anna, I want yu to explain me something, so I left this code:
   ngOnInit() {
     // this.bookservice.subjectBookList.subscribe(
     //   {
